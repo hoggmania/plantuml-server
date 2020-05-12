@@ -7,6 +7,7 @@ PlantUML Server is a web application to generate UML diagrams on-the-fly.
 
 ![](https://raw.githubusercontent.com/ftomassetti/plantuml-server/readme/screenshots/screenshot.png)
 [![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+
 To know more about PlantUML, please visit http://plantuml.com/.
 
 
